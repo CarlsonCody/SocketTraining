@@ -1,1 +1,2 @@
 # SocketTraining
+This was a school project to teach us more about the communication of a client and server through sockets. While sockets may be outdated on most parts, it was crucial to understand the purpose of sockets. Here in this project, we made an audio clone application. This would include a login, and a user would be able to search and play music from a database. While there were limited songs to choose from, the main objective was to show the understanding of a client and server interaction.
